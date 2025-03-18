@@ -1,6 +1,6 @@
 # 🎉 Mon Projet Génial
 
-![GitHub stars](https://img.shields.io/github/stars/ton-repo?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/[ton-repo](https://github.com/theo-bggtt/testGi)?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/ton-repo?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/ton-repo?style=for-the-badge)
 ![GitHub license](https://img.shields.io/github/license/ton-repo?style=for-the-badge)
